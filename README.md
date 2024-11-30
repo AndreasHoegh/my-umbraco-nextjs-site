@@ -11,4 +11,5 @@ I will include screenshots showing the Umbraco node configuration and how the co
 
 ### Example Screenshot
 ![Skærmbillede 2024-11-30 160611](https://github.com/user-attachments/assets/447fdb38-7ee1-4fab-9625-9916060945e4)
-![Skærmbillede 2024-11-30 160623](https://github.com/user-attachments/assets/e08027fc-b14a-4895-b62c-677bafb53f80)
+![Skærmbillede 2024-11-30 161802](https://github.com/user-attachments/assets/0fcae219-3d15-4ed2-960a-e8451420106f)
+
