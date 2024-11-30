@@ -1,36 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js + Umbraco Headless CMS Integration
 
-## Getting Started
+This project demonstrates how to integrate Next.js with Umbraco as a Headless CMS. The setup allows you to manage content in Umbraco and render it dynamically in a Next.js frontend. In this repository, you will see how a Next.js app fetches content from Umbraco's Delivery API and displays it in a dynamic and responsive website.
 
-First, run the development server:
+## Features
+- **Headless CMS**: Umbraco manages content, while Next.js handles the frontend.
+- **API Integration**: The Next.js app communicates with Umbraco via its Headless Delivery API to display content.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Screenshots
+I will include screenshots showing the Umbraco node configuration and how the corresponding content is displayed on the website. These will illustrate how the content structure in Umbraco matches the frontend display in Next.js.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Example Screenshot
+![Skærmbillede 2024-11-30 160611](https://github.com/user-attachments/assets/447fdb38-7ee1-4fab-9625-9916060945e4)
+![Skærmbillede 2024-11-30 160623](https://github.com/user-attachments/assets/e08027fc-b14a-4895-b62c-677bafb53f80)
